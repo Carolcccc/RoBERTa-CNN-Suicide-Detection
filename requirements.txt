@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+sentencepiece
+tokenizers
+pandas
+numpy
+scikit-learn
+nltk
+tqdm
+matplotlib
+seaborn
+tensorboard
+wandb
+jupyterlab
